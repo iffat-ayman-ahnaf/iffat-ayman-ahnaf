@@ -1,63 +1,94 @@
-## Hi there, I'm Iffat A. Ahnaf 👋
+# Hi there, I'm Iffat A. Ahnaf 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Fresh+Graduate;Economics+%2B+Data+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/iffatahnaf"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:iffat.ahnaf.2025@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://iffatahnaf2025.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=githubpages"></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge">
 </p>
 
-## 🚀 About Me 
-I’m an Economics graduate who is now deepening my expertise in Data Analytics to bridge business insight with data-driven decision making.
+---
 
-With a strong foundation in economic analysis and statistics, I enjoy turning complex datasets into clear insights that support business strategy and performance improvement. I’m especially interested in how data can be used to understand customer behavior, optimize operations, and forecast future trends.
+## 🚀 About Me
 
-My current focus is on building dashboards that are easy to understand and actually used by decision-makers, automating repetitive reporting tasks, and developing analytical models that help businesses plan smarter and faster.
+Fresh graduate in **Economics** with hands-on experience in **Data Analytics** — turning raw data into insights that actually drive decisions.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://iffatahnaf2025.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+- 🎓 Economics background gives me a strong edge in understanding business context behind the numbers
+- 📊 Passionate about building **dashboards people actually use** and analytical models that support smarter business planning
+- 💡 Interested in data roles across **Finance, Banking, Healthcare**, and open to opportunities in any data-driven industry
+- 🔍 Currently looking for: **Data Analyst / Business Analyst / BI Analyst** roles
 
-- **Business Intelligence Dashboard** – Creating interactive dashboards in Power BI to monitor sales, customer behavior, and performance metrics.
-- **Personal Analytics Projects** – Developing case studies using real-world datasets to strengthen analytical and storytelling skills.
+### [🏆 View My Full Portfolio](https://iffatahnaf2025.github.io/)
 
-## 🌱 Currently Learning 
-
-- Advanced SQL for data analysis
-- Python for automation and data modeling
-- Statistical analysis for business decision-making
-- Data visualization best practices
-- Basic machine learning for predictive analytics
+---
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
 #### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Beginner-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
 </p>
 
-#### Business Intelligence & Analytics
+#### Business & Analytical Skills
 <p>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Beginner-96CEB4?style=flat" alt="KPI Development Skill Badge">
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat">
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Intermediate-96CEB4?style=flat">
+  <img src="https://img.shields.io/badge/KPI%20Development-Beginner-FF6B6B?style=flat">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-45B7D1?style=flat">
+</p>
+
+---
+
+## 📂 Featured Projects
+
+> 💡 *Check out my [portfolio website](https://iffatahnaf2025.github.io/) for full case studies and walkthroughs.*
+
+| Project | Tools | Description |
+|--------|-------|-------------|
+| 🗂️ *[Add your project name]* | Power BI, SQL | *[Brief 1-line description]* |
+| 🗂️ *[Add your project name]* | Python, Excel | *[Brief 1-line description]* |
+| 🗂️ *[Add your project name]* | Tableau, SQL | *[Brief 1-line description]* |
+
+---
+
+## 📈 Currently Working On
+
+- 📊 **Business Intelligence Dashboard** – Interactive Power BI dashboard tracking sales, customer behavior, and KPIs
+- 🐍 **Python for Analytics** – Automating data cleaning and building simple predictive models
+- 📚 **Advanced SQL** – Window functions, CTEs, and performance optimization
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL (window functions, query optimization)
+- Python for data automation & modeling
+- Machine learning basics for predictive analytics
+- Data visualization best practices
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iffatahnaf2025&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iffatahnaf2025&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <i>💼 Open to Data Analyst, Business Analyst, and BI Analyst opportunities — let's connect!</i>
 </p>
