@@ -22,7 +22,7 @@ Fresh graduate in **Economics** with hands-on experience in **Data Analytics** �
 - 💡 Interested in data roles across **Finance, Banking, Healthcare**, and open to opportunities in any data-driven industry
 - 🔍 Currently looking for: **Data Analyst / Business Analyst / BI Analyst** roles
 
-### [🏆 View My Full Portfolio](https://iffatahnaf2025.github.io/)
+### [🏆 View My Full Portfolio](https://iffat-ayman-ahnaf.github.io/)
 
 ---
 
