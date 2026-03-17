@@ -53,7 +53,7 @@ Fresh graduate in **Economics** with hands-on experience in **Data Analytics** �
 
 ## 📂 Featured Projects
 
-> 💡 *Check out my [portfolio website](https://iffatahnaf2025.github.io/) for full case studies and walkthroughs.*
+> 💡 *Check out my [portfolio website](https://iffat-ayman-ahnaf.github.io/) for full case studies and walkthroughs.*
 
 | Project | Tools | Description |
 |--------|-------|-------------|
